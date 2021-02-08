@@ -1,6 +1,10 @@
 //Importing Random Util
 import java.util.Random;
 
+/*Lab 4
+Sam Dobrowolski, Daniel Hoevener
+Date: 2/8/2021 */
+
 class Main {
   //assigning random Variable
   public static void main(String[] args) {
