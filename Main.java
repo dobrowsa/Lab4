@@ -5,7 +5,7 @@ class Main {
   //assigning random Variable
   public static void main(String[] args) {
   Random r = new Random();
-  int randomNum = r.nextInt(50);  
+  int randomNum = r.nextInt(50) + 1;  
     System.out.println("The Random number is: " + randomNum);
   
   //Creating substitute variable
